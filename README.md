@@ -27,7 +27,7 @@
 
 ## Employment History
 
-### Frontend Developer at [DEUS: Human-Centered AI](https://deus.ai/)
+### Frontend Developer, [DEUS: Human-Centered AI](https://deus.ai/)
 
 #### [EASA](https://www.easa-alliance.org/news/best-practice-award-2022-spotlight-on-stitching-reclame-code/), an AI tool for monitoring influencers, aimed at government agencies.
 **Jan 2023 — April 2023**
@@ -35,7 +35,7 @@
 - Updated the app to React 18 and MUI5, moved about 30% of the code to TypeScript, and started using TanStack Query for better data handling.
 - Helped put together a Storybook for our UI components and increased test coverage.
 
-#### Contractor at [Shell](https://shell.com/)
+#### Contractor, [Shell](https://shell.com/)
 **March 2023 — present**
 - Joined as a contractor to work on a new initiative, an Internal Developer Platform using [Spotify Backstage](https://backstage.spotify.com/).
 - Developed a custom NodeJS backend plugin with multiple fact collectors for checking code quality, project status and vulnerability scans using [Soundcheck](https://backstage.spotify.com/marketplace/spotify/plugin/soundcheck/) and NodeJS.
@@ -45,7 +45,7 @@
 - Mentored junior developers on the project as they joined after the initial maturation of the platform.
 - [Contributed](https://github.com/backstage/backstage/pull/22223) in a small way to the open source Backstage repo.
 
-### Frontend Developer at [Beamian](https://beamian.com/)
+### Frontend Developer, [Beamian](https://beamian.com/)
 **Dec 2019 — Dec 2022**
 - Led the design and development of a virtual venue for online events built in Vue 2, implementing features like streaming, chat, and video calls as the pandemic forced us to quickly pivot.
 - Created HeadCounter, a simple Cordova and Vue 3 app for counting people in a given space, which was really handy at the time. Also made a [website](https://headcounter.app) for it using NUXT.
@@ -57,7 +57,7 @@
 **Mar 2021 — Jul 2021**
 - Taught modules on HTML, CSS, and SASS for aspiring web developers.
 
-### Frontend Engineer at [BindTuning](https://bindtuning.com/)
+### Frontend Engineer, [BindTuning](https://bindtuning.com/)
 **Aug 2015 — Dec 2019**
 - Worked with an internal templating language to create [themes](https://bindtuning.com/cms/all/themes) for different CMS platforms.
 - Was appointed to multiple custom work opportunities for intranet building with companies like Bang&Olufsen, Coca Cola, Macdonalds, among others.
@@ -67,7 +67,7 @@
 - Created content for marketing posts, guides, and video tutorials to help users get the most out of our products.
 - Led the development of a UI framework called Bunga with Angular 8, wrote the documentation, and helped the team use it to build BindTuning's provisioning app.
 
-### Fullstack Developer at [67 Creative Studio](https://67.pt/)
+### Fullstack Developer, [67 Creative Studio](https://67.pt/)
 **Jul 2014 — Aug 2015**
 - Created a PHP app for migrating databases from DOS to MySQL.
 - Built a stock management system for clinics using the LAMP stack, Boostrap and jQuery.
