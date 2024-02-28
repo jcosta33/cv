@@ -4,7 +4,7 @@
 
 - **Location:** Porto, Portugal
 - **LinkedIn:** https://www.linkedin.com/in/jcosta33/
-- **Github** https://github.com/jcosta33
+- **Github:** https://github.com/jcosta33
 
 ## Technical Skills
 
