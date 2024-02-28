@@ -8,7 +8,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/jcosta33/
 - **Github** https://github.com/jcosta33
 
-### Technical Skills
+## Technical Skills
 
 **Programming Languages & Frameworks:**
 - **Frontend:** JavaScript, TypeScript, CSS3, SCSS, HTML5
@@ -28,7 +28,6 @@
 - **Design:** UI/UX Design, Figma
 - **Methodologies:** Agile Methodologies
 
-
 ## Employment History
 
 ### Frontend Developer at DEUS: Human-Centered AI
@@ -38,7 +37,7 @@
 - Helped put together a Storybook for our UI components and increased test coverage.
 - Joined Shell (Royal Dutch) as a contractor to work on a new initiative, an Internal Developer Platform.
 
-### Contractor at Shell: Internal Developer Portal
+### Contractor at Shell: Fullstack Developer
 **March 2023 — Present**
 - Building an Internal Developer Platform using Spotify's Backstage. It's meant to help over 10,000 developers and their stakeholders manage their projects better.
 - Developed a custom backend plugin for checking code quality and project status.
@@ -47,7 +46,7 @@
 - Worked on a couple of POCs for app provisioning and moving all of Shell's technical docs to Backstage.
 - Mentored junior developers on the project and led an effort to improve our code testing practices.
 
-### Frontend Guy at Beamian
+### Frontend Developer at Beamian
 **Dec 2019 — Dec 2022, Porto**
 - Led the design and development of a virtual venue for online events, adding features like streaming, chat, and video calls.
 - Created HeadCounter, an app for counting people in a given space, which was really handy during the pandemic. Also made a [website](https://headcounter.app) for it using NUXT.
@@ -55,9 +54,9 @@
 - Worked on a custom event's management platform for Exponor using Vite, Vue 3 and Pinia.
 - Created an Admin panel for Beamian stakeholders.
 
-### Front-end Tutor, Edit.
+### Frontend Tutor, Edit.
 **Mar 2021 — Jul 2021, Porto**
-- Taught courses on HTML, CSS, and SASS, contributing to the development of new front-end professionals.
+- Taught modules on HTML, CSS, and SASS for aspiring web developers.
 
 ### Frontend Engineer at BindTuning
 **Aug 2015 — Dec 2019, Porto**
@@ -69,12 +68,16 @@
 - Created content for marketing posts, guides, and video tutorials to help users get the most out of our products.
 - Led the development of a UI framework called Bunga with Angular 8, wrote the documentation, and helped the team use it.
 
-### Junior Fullstack Developer at 67 Creative Studio
+### Fullstack Developer at 67 Creative Studio
 **Jul 2014 — Aug 2015, Porto**
 - Created a PHP app for migrating databases from DOS to MySQL.
 - Built a stock management system for clinics using the LAMP stack, Boostrap and jQuery.
 - Worked on a custom WordPress template for Nestlé's Sical brand, adding features like advanced search and Google Maps integration.
 - Created an RSS reader app for a client's blog using Cordova and jQuery Mobile.
+
+### Intern Backend Developer at Samsys
+**March 2014 — June 2014, Porto**
+- Briefly worked with a team building an ASP.NET MVC5 platform.
 
 ## Courses
 
@@ -83,6 +86,18 @@
   
 ## Languages
 
-- Portuguese (Native)
-- English (Fluent)
+- Portuguese (C2)
+- English (C2)
 
+## Extra Curricular Work
+
+### Recent Side Projects
+- [Phi-2 fine tuning](https://colab.research.google.com/drive/17MASK1ynP5g8nGgbOmYooVLJNOWQ0Ws3?usp=sharing): Python, Lora, Torch
+- [Mistral7b fine tuning](https://colab.research.google.com/drive/1ObYR-wIH9cxV9lycAdh1baWb49YBu14u?usp=sharing): Python, Lora, Torch
+- [Client LLM](https://github.com/jcosta33/client-llm-vite): Typescript, React, Material UI, WebLLM
+- [Countries](https://github.com/jcosta33/countries): Typescript, Vue, Vite
+- [Robot danceoff](https://github.com/jcosta33/robot-danceoff): Typescript, Vue, Vite
+- [Confessions](https://github.com/jcosta33/confessions): Typescript, React, NodeJS, ExpressJS, MongoDB
+
+### Currently learning
+Interested in the promise of WASM for the world of frontend development, particularly using fullstack Rust frameworks (Leptos being my favorite atm) similar to NextJS minus that pesky JS part. 
