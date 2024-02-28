@@ -55,7 +55,7 @@
 **Mar 2021 — Jul 2021**
 - Taught modules on HTML, CSS, and SASS for aspiring web developers.
 
-### Frontend Engineer, [BindTuning](https://bindtuning.com/)
+### Frontend Developer, [BindTuning](https://bindtuning.com/)
 **Aug 2015 — Dec 2019**
 - Worked with an internal templating language to create [themes](https://bindtuning.com/cms/all/themes) for different CMS platforms.
 - Was appointed to multiple custom work opportunities for intranet building with companies like Bang&Olufsen, Coca Cola, Macdonalds, among others.
