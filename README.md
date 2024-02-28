@@ -30,7 +30,7 @@ Joined Shell (Royal Dutch) as a contractor to work on a new initiative, an Inter
 - [Contributed](https://github.com/backstage/backstage/pull/22223) in a small way to the open source Backstage repo.
 
 ### Frontend Developer at Beamian
-**Dec 2019 — Dec 2022, Porto**
+**Dec 2019 — Dec 2022**
 - Led the design and development of a virtual venue for online events built in Vue 2, implementing features like streaming, chat, and video calls as the pandemic forced us to quickly pivot.
 - Created HeadCounter, a simple Cordova and Vue 3 app for counting people in a given space, which was really handy at the time. Also made a [website](https://headcounter.app) for it using NUXT.
 - Developed an [Ionic and Vue 3 app](https://beamian.com/event-check-in-app/) for easy event check-ins, making life easier for event organizers.
@@ -38,11 +38,11 @@ Joined Shell (Royal Dutch) as a contractor to work on a new initiative, an Inter
 - Created an Admin panel in Vue 2 for Beamian stakeholders.
 
 ### Frontend Tutor, Edit.
-**Mar 2021 — Jul 2021, Porto**
+**Mar 2021 — Jul 2021**
 - Taught modules on HTML, CSS, and SASS for aspiring web developers.
 
 ### Frontend Engineer at BindTuning
-**Aug 2015 — Dec 2019, Porto**
+**Aug 2015 — Dec 2019**
 - Worked with an internal templating language to create [themes](https://bindtuning.com/cms/all/themes) for different CMS platforms.
 - Was appointed to multiple custom work opportunities for intranet building with companies like Bang&Olufsen, Coca Cola, Macdonalds, among others.
 - Created a SSG stack using Gulp, Nunjucks and NodeJS and implemented website (design from external contractor). It is still [Bindtuning's website](https://bindtuning.com/) today.
@@ -52,14 +52,14 @@ Joined Shell (Royal Dutch) as a contractor to work on a new initiative, an Inter
 - Led the development of a UI framework called Bunga with Angular 8, wrote the documentation, and helped the team use it to build BindTuning's provisioning app.
 
 ### Fullstack Developer at 67 Creative Studio
-**Jul 2014 — Aug 2015, Porto**
+**Jul 2014 — Aug 2015**
 - Created a PHP app for migrating databases from DOS to MySQL.
 - Built a stock management system for clinics using the LAMP stack, Boostrap and jQuery.
 - Worked on a custom WordPress template for Nestlé's Sical brand, adding features like advanced search and Google Maps integration.
 - Created an RSS reader app for a client's blog using Cordova and jQuery Mobile.
 
 ### Intern Backend Developer at Samsys
-**March 2014 — June 2014, Porto**
+**March 2014 — June 2014**
 - Briefly worked with a team building an ASP.NET MVC5 platform.
 
 ## Technical Skills
