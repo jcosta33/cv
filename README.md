@@ -3,8 +3,6 @@
 ## Contact Information
 
 - **Location:** Porto, Portugal
-- **Phone:** +351 910 608 332
-- **Email:** j.costa.3394@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/jcosta33/
 - **Github** https://github.com/jcosta33
 
