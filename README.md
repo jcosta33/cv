@@ -3,39 +3,86 @@
 ## Contact Information
 
 - **Location:** Porto, Portugal
-- **Phone:** +351 910608332
+- **Phone:** +351 910 608 332
 - **Email:** j.costa.3394@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/jcosta33/
+- **Github** https://github.com/jcosta33
+
+### Technical Skills
+
+**Programming Languages & Frameworks:**
+- **Frontend:** JavaScript, TypeScript, CSS3, SCSS, HTML5
+  - **Frameworks & Libraries:** Vue, NUXT, ReactJS, Angular 2+, AngularJS, Ionic, jQuery, Bulma, Bootstrap, Material UI
+  - **State Management & Querying:** Vuex, TanStack Query, React Redux, RxJS
+  - **Build Tools & Other:** Vite, Gulp, Webpack
+  - **Backend & Database:** NodeJS, Postgres, MySQL, PHP
+- **Mobile Development:** Cordova, Ionic, jQuery Mobile
+
+**Technologies & Tools:**
+- **Version Control & Project Management:** Git, Jira, Azure DevOps, Github, Bitbucket
+- **Analytics & Others:** Google Analytics, Spotify Backstage
+- **Collaboration & Documentation:** SharePoint
+- **CI/CD:** Github actions, Bitbucket pipelines
+
+**Design & Project Management:**
+- **Design:** UI/UX Design, Figma
+- **Methodologies:** Agile Methodologies
+
 
 ## Employment History
 
-### Front-end Developer, DEUS: human(ity)-centered AI
+### Frontend Developer at DEUS: Human-Centered AI
 **Jan 2023 — Present**
-- Initially contributed to the development of an influencer monitoring tool using AI for regulatory compliance, focusing on protecting children from harmful content. Upgraded the app to React 18 and MUI5, converted about 30% to TypeScript, and implemented TanStack Query.
-- Participated in building a Storybook for the project's UI components and worked on improving test coverage.
-- **While still employed by DEUS**, contracted to Shell to work on an Internal Developer Portal project. This engagement involved building a custom frontend plugin for onboarding teams onto Backstage, applying the Shell Design System to Backstage, improving the UI, managing the catalog, and mentoring junior developers on the Soundcheck backend plugin for analysis.
+- Worked on EASA, an AI tool for monitoring influencers, aimed at government agencies. Focused on making sure kids see safe content online.
+- Updated the app to React 18 and MUI5, moved about 30% of the code to TypeScript, and started using TanStack Query for better data handling.
+- Helped put together a Storybook for our UI components and increased test coverage.
+- Joined Shell (Royal Dutch) as a contractor to work on a new initiative, an Internal Developer Platform.
 
-### Contractor at Shell: Internal Developer Portal (While Employed at DEUS)
-**Jan 2023 — Present**
-- Engaged in the development of an Internal Developer Portal powered by Spotify's Backstage, implementing features for automatic static analysis reports, work management analysis, and GitHub project assessment.
-- Built a custom frontend plugin for streamlining the onboarding process of teams onto Backstage, emphasizing ease of use and performance for over 10,000 developers and thousands of applications.
-- Applied the Shell Design System to Backstage, significantly improving the UI and effectively managing the catalog.
-- Led the mentorship of junior developers contributing to the Soundcheck backend plugin, guiding them through development practices and project intricacies.
+### Contractor at Shell: Internal Developer Portal
+**March 2023 — Present**
+- Building an Internal Developer Platform using Spotify's Backstage. It's meant to help over 10,000 developers and their stakeholders manage their projects better.
+- Developed a custom backend plugin for checking code quality and project status.
+- Developed a frontend plugin that makes it easier for teams to start using Backstage.
+- Applied Shell's Design System to make the UI look good and accessible.
+- Worked on a couple of POCs for app provisioning and moving all of Shell's technical docs to Backstage.
+- Mentored junior developers on the project and led an effort to improve our code testing practices.
 
-### Front-end Guy, Beamian
-**Dec 2019 — Present, Porto**
-- Led front-end and design initiatives for creating a virtual venue for online events, incorporating features like streaming, chat, video calls, and networking.
-- Designed and implemented the HeadCounter app, a tally count tool with advanced features, to aid businesses during the pandemic. Additionally, developed and designed a website for the HeadCounter app using NUXT.
-- Developed an app for managing event check-ins built in Ionic, enhancing the efficiency of event operations.
+### Frontend Guy at Beamian
+**Dec 2019 — Dec 2022, Porto**
+- Led the design and development of a virtual venue for online events, adding features like streaming, chat, and video calls.
+- Created HeadCounter, an app for counting people in a given space, which was really handy during the pandemic. Also made a [website](https://headcounter.app) for it using NUXT.
+- Developed an [Ionic app](https://beamian.com/event-check-in-app/) for easy event check-ins, making life easier for event organizers.
+- Worked on a custom event's management platform for Exponor using Vite, Vue 3 and Pinia.
+- Created an Admin panel for Beamian stakeholders.
 
-### Senior Front-end Engineer, BindTuning
+### Front-end Tutor, Edit.
+**Mar 2021 — Jul 2021, Porto**
+- Taught courses on HTML, CSS, and SASS, contributing to the development of new front-end professionals.
+
+### Frontend Engineer at BindTuning
 **Aug 2015 — Dec 2019, Porto**
-- Managed client interactions and supported a powershell engine for generating themes across various CMS platforms.
-- Developed themes and maintained legacy systems, becoming the go-to expert for CMS-related projects.
-- Led the development of a UI framework called Bunga using Angular 8, created documentation, and supported team implementation efforts.
-- Worked with high-profile clients like NASA, Coca Cola, and McDonald's.
+- Handled client support and worked with an internal templating language to create [themes for different CMS platforms](https://bindtuning.com/cms/all/themes).
+- Became the go-to person for [CMS themes](https://bindtuning.com/design) and maintenance.
+- Created a SSG stack using Gulp, Nunjucks and NodeJS. It is still [Bindtuning's website](https://bindtuning.com/) today.
+- Developed a cross-platform navigation library for multiple CMS platforms.
+- Created a tool for customizing SharePoint themes on the fly (post installation).
+- Created content for marketing posts, guides, and video tutorials to help users get the most out of our products.
+- Led the development of a UI framework called Bunga with Angular 8, wrote the documentation, and helped the team use it.
 
-### Junior Full Stack Developer, 67 Creative Studio
+### Junior Fullstack Developer at 67 Creative Studio
 **Jul 2014 — Aug 2015, Porto**
-- Developed using the LAMP stack, created a PHP app for database migration from DOS to MySQL.
-- Built a stock management platform for clinics.
-- Developed a custom WordPress template for Nestlé's brand Sical, featuring advanced search, Google Maps integration, and a product catalog, significantly enhancing the brand's online presence.
+- Created a PHP app for migrating databases from DOS to MySQL.
+- Built a stock management system for clinics using the LAMP stack, Boostrap and jQuery.
+- Worked on a custom WordPress template for Nestlé's Sical brand, adding features like advanced search and Google Maps integration.
+- Created an RSS reader app for a client's blog using Cordova and jQuery Mobile.
+
+## Courses
+
+- **Neuro Linguistic Programming, I Have the Power**
+  Mar 2018 — Dec 2019
+  
+## Languages
+
+- Portuguese (Native)
+- English (Fluent)
+
